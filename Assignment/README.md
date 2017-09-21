@@ -1,6 +1,10 @@
 # README for math.c
 
 Ryan E. Drexel
+
+	Created 06 September 2017
+	Updated 21 September 2017
+ 
 Embedded Systems- Dr. Tang and Mr. T.
 
 math.c is a C language function defined in math.h capable of executing integer math operations.
